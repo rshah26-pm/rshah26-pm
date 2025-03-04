@@ -1,6 +1,10 @@
 # Hi there, I'm rohan! 👋
 
 ## About Me
-- 🔭 I’m currently building with AI agents
-- 💬 Ask me about AI infra, especially at the edge
-- 📫 How to reach me: https://www.linkedin.com/in/rshah26-pm
+pm @msft | upenn robotics | 4 patents (tech + design) | but most importantly: _building cool things here_
+
+Always love to connect with fellow builders, DM me to chat about AI, edge computing, robotics or wearables. 
+
+https://www.linkedin.com/in/rshah26-pm
+
+cheers, and happy building! 
